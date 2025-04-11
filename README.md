@@ -107,7 +107,7 @@ Each question is worth 0.5 points. Total: **10 points**
    - A) An external module  
    - B) A backend service  
    - C) A part of the UI  
-   - D) A build script  
+   - **D) A build script**  
 
 14. In React, what is `useState`?  
    - A) A type of component  
